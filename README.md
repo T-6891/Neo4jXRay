@@ -157,6 +157,13 @@ Contributions are welcome! Please feel free to open issues or submit pull reques
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 For more details: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
+
+## 👤 Author
+
+**Vladimir Smelnitskiy**  
+E-mail: master@t-brain.ru
+
+
 ## 📌 Roadmap
 
 - [ ] Schema comparison functionality
